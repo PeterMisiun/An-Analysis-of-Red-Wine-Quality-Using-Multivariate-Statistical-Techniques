@@ -1,1 +1,1 @@
-# An-Analysis-of-Red-Wine-Quality-Using-Multivariate-Statistical-Techniques
+Project for STAT2004 (Analytics for Observational Data), in which students were tasked with selecting a dataset and unique R package in order to gain insights and answer key questions relating to the dataset using multivariate statistical techniques.
